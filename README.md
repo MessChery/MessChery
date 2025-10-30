@@ -1,6 +1,6 @@
 👋 About Me
 
-Hey! I'm Beatriz Rodrigues, an 18-year-old aspiring programmer from Portugal with a passion for software development and cybersecurity. I've finished my Level 4 Programming course at ATEC and preparing to specialize in Cybersecurity (Level 5).
+Hey! I'm Beatriz Rodrigues, an 19-year-old aspiring programmer from Portugal with a passion for software development and cybersecurity. I've finished my Level 4 Programming course at ATEC and preparing to specialize in Cybersecurity (Level 5).
 
 I'm curious, creative, and always up for learning something new. I love working in teams, solving real problems.
 🛠️ Tech Stack
