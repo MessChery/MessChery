@@ -16,7 +16,10 @@ I'm a 20-year-old developer from Portugal who loves combining creativity with co
 
 ### 🚀 Past Experience & Foundation
 - 🎓 **Education:** Completed my Level 4 Programming course at ATEC.
+- 📱 **Mobile Dev Internships:** Focused heavily on mobile development (Flutter) during my 2nd and 3rd-year internships while completing my Level 4 course.
 - 🌐 **Frontend Dev:** Built a foundational website using HTML, CSS, and JS during my 1st-year internship.
 
 ### 📸 Beyond the Screen
 When I'm not coding or diving into network security, you can usually find me behind a camera. I’ve had a passion for photography for years—it’s my creative outlet and a way to explore the world from different angles (sometimes literally!).
+
+---
