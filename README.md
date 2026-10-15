@@ -1,30 +1,22 @@
-👋 About Me
+# 👋 Hi, I'm Beatriz Rodrigues!
 
-Hey! I'm Beatriz Rodrigues, an 20-year-old aspiring programmer from Portugal with a passion for software development and cybersecurity. I've finished my Level 4 Programming course at ATEC and preparing to specialize in Cybersecurity (Level 5).
+I'm a 20-year-old developer from Portugal who loves combining creativity with code. I'm passionate about building great software and learning how to secure it. I thrive in collaborative environments, love solving real-world problems, and am always looking for the next challenge.
 
-I'm curious, creative, and always up for learning something new. I love working in teams, solving real problems.
-🛠️ Tech Stack
+### 🔭 What I'm Up To
+- 💼 **Working at:** **Aurea77**.
+- 🛡️ **Studying:** Wrapping up my Level 5 Cybersecurity specialization at ATEC, focusing on ethical hacking, system protection, and secure software design.
+- 🐾 **Developing:** **PawPlanner**, an ongoing cross-platform pet care management app built with Flutter/Dart.
+- 🗂️ **Building:** **Allection**, my own mobile app designed for tracking and managing personal collections.
 
-    Languages & Frameworks: Dart & Flutter, C#, Python, C++, Java, HTML/CSS, JavaScript
+### 🛠️ Tech Stack
+- **Mobile & Web:** Dart, Flutter, HTML, CSS, JavaScript
+- **Core Languages:** C#, Python, C++, Java
+- **Databases:** MySQL
+- **Tools & OS:** Git, Linux, Windows
 
-    Databases: MySQL
+### 🚀 Past Experience & Foundation
+- 🎓 **Education:** Completed my Level 4 Programming course at ATEC.
+- 🌐 **Frontend Dev:** Built a foundational website using HTML, CSS, and JS during my 1st-year internship.
 
-    Tools: Git, Microsoft Office, and various IDEs
-
-    Operating Systems: Windows & Linux environments
-
-🚀 Projects & Experience
-
-    🐾 PawPlanner App: Cross-platform app for pet care management (Flutter/Dart)
-
-    🌐 Website Dev: Front-end site built with HTML, CSS, and JS during a 1st-year internship
-
-    🛡️ Currently shifting gears into Cybersecurity & Networking
-
-🧠 Always Learning
-
-Soon starting my Cybersecurity specialization—focusing on ethical hacking, system protection, and secure software design.
-
-📸 Outside Tech
-
-I’ve had a passion for photography for years. It’s my creative outlet and a way to explore the world from different angles—sometimes literally!
+### 📸 Beyond the Screen
+When I'm not coding or diving into network security, you can usually find me behind a camera. I’ve had a passion for photography for years—it’s my creative outlet and a way to explore the world from different angles (sometimes literally!).
